@@ -1,3 +1,2 @@
 # lottery-data
-data on lottery
-1
+This is some data form the interweb on lottery winners. I used this to help learn some machine learning stuff. 
